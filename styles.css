@@ -1,6 +1,8 @@
 body {
     background-color: rgb(3, 0, 38);
-    background-image: radial-gradient(#42426b, rgb(3, 0, 38) 70% )
+    background-image: radial-gradient(#42426b, rgb(3, 0, 38) 60% );
+    background-repeat: no-repeat;
+    background-size: 100% 115%;
 
 
   }
